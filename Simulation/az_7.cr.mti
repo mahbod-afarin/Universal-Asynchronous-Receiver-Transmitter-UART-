@@ -1,0 +1,22 @@
+{D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/test.v} {1 {vlog -work work -vopt {D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/test.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} {D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/Transmiter.v} {1 {vlog -work work -vopt {D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/Transmiter.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Transmitter
+
+Top level modules:
+	Transmitter
+
+} {} {}} {D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/TopModuleRs232.v} {1 {vlog -work work -vopt {D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/TopModuleRs232.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module TopModuleRs232
+
+Top level modules:
+	TopModuleRs232
+
+} {} {}}

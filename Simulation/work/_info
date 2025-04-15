@@ -1,0 +1,80 @@
+m255
+K3
+13
+cModel Technology
+dD:\Program Files\modeltech64_10.1c\dsd_hws\hw5
+vReceiver
+VebfEnU]WEoP7KAaB@G?<I2
+r1
+!s85 0
+31
+I?1GO[8F?<IP_jg]Y`EY@U0
+Z0 dD:\Program Files\modeltech64_10.1c\dsd_hws\az_7
+w1448832217
+8D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/Receiver.v
+FD:/Program Files/modeltech64_10.1c/dsd_hws/az_7/Receiver.v
+L0 1
+Z1 OL;L;10.1c;51
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@receiver
+!s100 `3QNzXE@KBM[<UKZ2TeET1
+!s90 -reportprogress|300|-work|work|-vopt|D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/Receiver.v|
+!s108 1448832307.466000
+!s107 D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/Receiver.v|
+!i10b 1
+vtest
+Vk<3<[f=78GX=_HO53D;7>3
+r1
+31
+IM8<Tkd23P6`<:haCfaXOJ3
+Z3 dD:\Program Files\modeltech64_10.1c\dsd_hws\az_7
+w1448832269
+8D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/test.v
+FD:/Program Files/modeltech64_10.1c/dsd_hws/az_7/test.v
+L0 1
+R1
+R2
+!s85 0
+!s100 M6e?b[Admj]9VP023^lPE0
+!s90 -reportprogress|300|-work|work|-vopt|D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/test.v|
+!i10b 1
+!s108 1448832308.775000
+!s107 D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/test.v|
+vTopModuleRs232
+VfUOjF`m@DR^i@7T=OQT401
+r1
+31
+InTK;@hia7SEV_c<>nOLdV3
+R3
+w1448832308
+8D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/TopModuleRs232.v
+FD:/Program Files/modeltech64_10.1c/dsd_hws/az_7/TopModuleRs232.v
+L0 1
+R1
+R2
+n@top@module@rs232
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/TopModuleRs232.v|
+!s100 nZ81WJMKlBeHEf[WQ^Q]S3
+!s108 1448832308.713000
+!s107 D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/TopModuleRs232.v|
+!i10b 1
+vTransmitter
+VG86S3h=`J^<^H5MPMlHnG3
+r1
+31
+IhFRL<:;7>=bQL2W;76I@T1
+R3
+w1448829831
+8D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/Transmiter.v
+FD:/Program Files/modeltech64_10.1c/dsd_hws/az_7/Transmiter.v
+L0 1
+R1
+R2
+n@transmitter
+!s85 0
+!s100 ?>Bk3dOWHgm]ALQ7b:jz^2
+!s90 -reportprogress|300|-work|work|-vopt|D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/Transmiter.v|
+!s108 1448832307.404000
+!s107 D:/Program Files/modeltech64_10.1c/dsd_hws/az_7/Transmiter.v|
+!i10b 1
